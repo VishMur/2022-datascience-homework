@@ -72,7 +72,7 @@ You can also check out the [official website](http://conda.pydata.org/docs/test-
 
 We'll be running Python through Jupyter Notebooks as they are great for the data science process and for teaching, but you should be aware of the other options we discuss here.
 
-Notebooks are stored in files that end with a `.ipynb` extension. Download [the notebook file for the second lecture](https://github.com/datascience-course/2022-datascience-lectures/tree/main/02-basic-python) and save it to a folder.
+Notebooks are stored in files that end with a `.ipynb` extension. They are included in the [basic-python](https://github.com/datascience-course/2022-datascience-lectures/tree/main/02-basic-python) folder in this directory. Download them and save them to a folder.
 
 Notebooks make use of an improved, interactive client for python called [IPython](https://ipython.org/). IPython might already be installed in the latest version if you did a clean anaconda install. To check, we'll use anaconda to install the proper version of IPython. Run:
 
